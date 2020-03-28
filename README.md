@@ -22,7 +22,7 @@ brew install bat
 #### [Diskus](https://github.com/sharkdp/diskus)
 A minimal, fast alternative to du -sh.
 ```bash
-cargo install diskus
+brew install diskus
 ```
 #### [Exa](https://the.exa.website)
 A modern replacement for ls.
@@ -37,15 +37,20 @@ brew install fd
 #### [Hexyl](https://github.com/sharkdp/hexyl)
 A command-line hex viewer
 ```bash
-cargo install hexyl
+brew install hexyl
 ```
 #### [Insect](https://github.com/sharkdp/insect)
 High precision scientific calculator with support for physical units.
 ```bash
-npm install -g insect
+brew install insect
 ```
-#### [Shell Functional Tools](https://github.com/sharkdp/shell-functools)
-Functional programming tools for the shell.
+#### [Bitwise](https://github.com/mellowcandle/bitwise)
+Terminal based bit manipulator in ncurses.
 ```bash
-pip install shell-functools
+brew install bitwise
+```
+#### [Pastel](https://github.com/sharkdp/pastel)
+A command-line tool to generate, analyze, convert and manipulate colors.
+```bash
+brew install pastel
 ```
