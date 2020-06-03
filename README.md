@@ -54,3 +54,9 @@ A command-line tool to generate, analyze, convert and manipulate colors.
 ```bash
 brew install pastel
 ```
+#### [Starship](https://github.com/starship/starship)
+☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+```bash
+brew install starship
+```
+[~/.config/starship.toml](configs/starship.toml)
